@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="182" viewBox="0 0 360 182">
+
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .title { font: 600 15px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .label { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #59636e; }
+  .value { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .track { fill: #eff2f5; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .title, .value { fill: #e6edf3; }
+    .label { fill: #9198a1; }
+    .track { fill: #21262d; }
+  }
+</style>
+
+<rect class="bg" x="0.5" y="0.5" rx="6" width="359" height="181"/>
+<text class="title" x="20" y="32">GitHub activity</text>
+<text class="label" x="20" y="64">Contributions (last year)</text>
+<text class="value" x="340" y="64" text-anchor="end">491</text>
+<text class="label" x="20" y="90">Commits</text>
+<text class="value" x="340" y="90" text-anchor="end">484</text>
+<text class="label" x="20" y="116">Pull requests</text>
+<text class="value" x="340" y="116" text-anchor="end">4</text>
+<text class="label" x="20" y="142">Public repos contributed to</text>
+<text class="value" x="340" y="142" text-anchor="end">6</text>
+<text class="label" x="20" y="168">Stars on those repos</text>
+<text class="value" x="340" y="168" text-anchor="end">110</text>
+</svg>
