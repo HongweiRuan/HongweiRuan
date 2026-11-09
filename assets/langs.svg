@@ -17,9 +17,9 @@
 <rect class="bg" x="0.5" y="0.5" rx="6" width="359" height="181"/>
 <text class="title" x="20" y="32">Languages</text>
 <rect class="track" x="20" y="48" rx="4" width="320" height="8"/>
-<rect x="20.0" y="48" width="281.5" height="8" fill="#3572A5"/>
-<rect x="301.5" y="48" width="12.6" height="8" fill="#5686a5"/>
-<rect x="314.1" y="48" width="10.7" height="8" fill="#f34b7d"/>
+<rect x="20.0" y="48" width="281.4" height="8" fill="#3572A5"/>
+<rect x="301.4" y="48" width="12.6" height="8" fill="#5686a5"/>
+<rect x="314.1" y="48" width="10.6" height="8" fill="#f34b7d"/>
 <rect x="324.7" y="48" width="10.1" height="8" fill="#3A4E3A"/>
 <rect x="334.9" y="48" width="4.0" height="8" fill="#89e051"/>
 <rect x="338.9" y="48" width="1.1" height="8" fill="#8b949e"/>

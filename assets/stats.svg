@@ -17,9 +17,9 @@
 <rect class="bg" x="0.5" y="0.5" rx="6" width="359" height="181"/>
 <text class="title" x="20" y="32">GitHub activity</text>
 <text class="label" x="20" y="64">Contributions (last year)</text>
-<text class="value" x="340" y="64" text-anchor="end">497</text>
+<text class="value" x="340" y="64" text-anchor="end">491</text>
 <text class="label" x="20" y="90">Commits</text>
-<text class="value" x="340" y="90" text-anchor="end">488</text>
+<text class="value" x="340" y="90" text-anchor="end">482</text>
 <text class="label" x="20" y="116">Pull requests</text>
 <text class="value" x="340" y="116" text-anchor="end">4</text>
 <text class="label" x="20" y="142">Public repos contributed to</text>
